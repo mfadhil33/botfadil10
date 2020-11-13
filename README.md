@@ -18,7 +18,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/mfadhil33/botfadil10.git
-> cd botst4rz
+> cd botfadil10
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
