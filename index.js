@@ -12,8 +12,8 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'ST4RZ BOT 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/m_fadhil456'; // Nama Instagramlu cok
+const BotName = 'fadhilbot10 🤖'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/mhd_fadhil112'; // Nama Instagramlu cok
 const whatsapplu = '0823-1806-5427'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
