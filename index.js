@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 const BotName = 'fadhilbot10 🤖'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/mhd_fadhil112'; // Nama Instagramlu cok
 const whatsapplu = '0823-1806-5427'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
+const kapanbotaktif = '5jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/FsAlnxqz6y2BhCQi5ayCLG'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/KLW3UlFfeaH36Ucm5zRfCz'; // OFFICIAL GRUP LU 2
 //
